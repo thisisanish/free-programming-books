@@ -8,6 +8,7 @@
 * [HTML / CSS](#html--css)
 * [Java](#Java)
 * [JavaScript](#javascript)
+  * [React.js](#reactjs)
   * [jQuery](#jquery)
   * [Vue.js](#vuejs)
 * [Kubernetes](#Kubernetes)
@@ -64,6 +65,9 @@
 * [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) (HTML)
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
+
+### React.js
+* [The React Cheatsheet for 2020 ](https://www.freecodecamp.org/news/the-react-cheatsheet-for-2020/) Reed Barger (HTML)
 
 
 #### jQuery
